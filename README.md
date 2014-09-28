@@ -1,4 +1,3 @@
-devjokes.github.io
-==================
+### Dev Jokes!
 
-Dev Jokes! LOL!
+How do you comfort a JavaScript bug? You console it!
