@@ -12,4 +12,4 @@ When a JavaScript date has gone bad, "Don't call me, I'll callback you. I promis
 
 **Why did the jQuery developer never have financial problems?** Because he was in $.noConflict() mode.
 
-** How did the doctor revive the developer?** a. The dev wasn't responsive so the doc picked him up by his bootstraps.
+** How did the doctor revive the developer?** The dev wasn't responsive so the doc picked him up by his bootstraps.
