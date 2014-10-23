@@ -12,6 +12,6 @@ When a JavaScript date has gone bad, "Don't call me, I'll callback you. I promis
 
 **Why did the jQuery developer never have financial problems?** Because he was in $.noConflict() mode.
 
-** How did the doctor revive the developer?** The dev wasn't responsive so the doc picked him up by his bootstraps.
+**How did the doctor revive the developer?** The dev wasn't responsive so the doc picked him up by his bootstraps.
 
 Dev1 saw a strange JavaScript function & asked, "What is this?". Dev2 responded, "I don't know. I would've called you, but I was in a bind".
