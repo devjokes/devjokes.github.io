@@ -15,3 +15,6 @@ When a JavaScript date has gone bad, "Don't call me, I'll callback you. I promis
 **How did the doctor revive the developer?** The dev wasn't responsive so the doc picked him up by his bootstraps.
 
 Dev1 saw a strange JavaScript function & asked, "What is this?". Dev2 responded, "I don't know. I would've called you, but I was in a bind".
+
+**Why do C# and Java developers keep breaking their keyboards?** Because they use a strongly typed language.
+
